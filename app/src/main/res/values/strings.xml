@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="base_url">https://swapi.dev/api/</string>
+</resources>
